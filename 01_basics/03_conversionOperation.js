@@ -59,3 +59,19 @@ console.log("1"+2) // 12
 console.log(1+"2") // 12
 console.log("1"+ 2+2) // 122
 console.log(2+3+"1") // 51
+
+//postfix increment 
+let y = 10 //11
+let x = y++ // 10
+
+// postfix decrement
+let y = 10  // 9
+let x = y-- // 10
+
+// prefix increment
+let y = 10  //  11
+let x = ++y // 11
+
+// prefix decrement
+let y = 10 // 9
+let x = --y // 9
