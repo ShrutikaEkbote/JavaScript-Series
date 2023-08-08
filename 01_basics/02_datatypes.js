@@ -12,7 +12,7 @@ console.log("shrutika"); //output:"shrutika"
 
 let name="shrutika" // string 
 let age = 18 // number
-let isLoggedin = false;
+let isLoggedin = false; //boolean
 
 console.log(name);
 console.log(age);
